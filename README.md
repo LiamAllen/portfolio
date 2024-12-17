@@ -1,5 +1,9 @@
 Liam Allen
 
+Resume 
+
+https://profile.indeed.com/p/9wnl6nn
+
 Contact Info & Social
 
 email: liamallen.lp@gmail.com 
