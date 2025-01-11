@@ -28,7 +28,7 @@ https://github.com/LiamAllen/ReactToDo
 
 ReactToTo is a simple todo app using ReactJS as a frontend, and ExpressJS as a backend API. Users can create, delete, and view todo items in their list. 
 
-###JavaTodo
+### JavaTodo
 
 https://github.com/LiamAllen/JavaTodo
 
