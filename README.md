@@ -27,3 +27,9 @@ Infinity dice is a CLI built using Java that allows users to request randomly ge
 https://github.com/LiamAllen/ReactToDo
 
 ReactToTo is a simple todo app using ReactJS as a frontend, and ExpressJS as a backend API. Users can create, delete, and view todo items in their list. 
+
+###JavaTodo
+
+https://github.com/LiamAllen/JavaTodo
+
+JavaTodo is a simple java app for managing a todo list on a local machine. User can create, view and delete todo items. 
