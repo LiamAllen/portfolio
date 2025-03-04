@@ -8,6 +8,8 @@ https://profile.indeed.com/p/9wnl6nn
 
 email: liamallen.lp@gmail.com 
 
+phone: +1 (405) 406 - 9171
+
 linked.in: https://www.linkedin.com/in/liam-allen-7426481b7?utm_source=share&utm_campaign=share_via&utm_content=profile
 
 ## Relevant Skills
