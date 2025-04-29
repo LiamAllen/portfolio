@@ -14,7 +14,9 @@ linked.in: https://www.linkedin.com/in/liam-allen-7426481b7?utm_source=share&utm
 
 ## Relevant Skills
 
-Java, C#, HTML, JS, CSS, Angular, React, GIT, SQL, problem solving, critical thinking, oral communication, written communication.
+Java, C#, HTML, JS, CSS, Angular, React, GIT, SQL,
+problem solving, critical thinking, oral communication, written communication,
+troubleshooting, teamwork, leadership
 
 ## Projects
 
