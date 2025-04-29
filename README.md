@@ -18,6 +18,14 @@ Java, C#, HTML, JS, CSS, Angular, React, GIT, SQL, problem solving, critical thi
 
 ## Projects
 
+### ChatterCord
+
+https://github.com/LiamAllen/ChatterCord
+
+Simple, fast chat application for small groups. Complete with basic features, with support and updates planned in the near future. 
+
+Give it a try on Heroku: https://chatter-cord-82da2429d0a7.herokuapp.com/
+
 ### InfinityDice 
 
 https://github.com/liamallen/infinitydice
