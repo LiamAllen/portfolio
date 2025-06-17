@@ -45,3 +45,9 @@ ReactToTo is a simple todo app using ReactJS as a frontend, and ExpressJS as a b
 https://github.com/LiamAllen/JavaTodo
 
 JavaTodo is a simple java app for managing a todo list on a local machine. User can create, view and delete todo items. 
+
+### Search_
+
+https://github.com/LiamAllen/search_
+
+Search_ is a simple python tool for making web searches directly from the command line or Windows PowerShell. Add to "path" for easy access from terminal. 
